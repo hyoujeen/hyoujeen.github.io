@@ -104,7 +104,22 @@
 									</a>
 								
 									<!-- Blog -->
-									<a href="images/fulls/06.jpg">
+									<script>
+										var pageURL_4 = 'https://medium.com/@hyoujeen';
+										var pageTitle_4 = 'Medium Blog';
+										var popupWinWidth = 800;
+										var popupWinHeight = 650;
+
+										function createPopupWin(pageURL_4, pageTitle_4, popupWinWidth, popupWinHeight) {
+											var left = (screen.width - popupWinWidth)/2;
+											var top = (screen.height - popupWinHeight)/4;
+
+											var myWindow = window.open(pageURL_4, pageTitle_4, 'resizable=yes, width=' + popupWinWidth + ', height=' + popupWinHeight + ', top=' + top + ',left=' + left);
+										}
+									</script>
+
+						
+									<a onclick = "createPopupWin('https://medium.com/@hyoujeen', 'Medium Blog', 800, 650);" />
 										<img src="images/thumbs/06.jpg" alt="" />
 										<h3>Ideas</h3>
 									</a>
