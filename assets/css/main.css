@@ -2746,9 +2746,9 @@
     }
 
     /* blur effect */
-    .gallery-item .placeholder {
-      filter: blur(20px);
-    }
+    /*.gallery-item .placeholder { */
+    /*  filter: blur(20px); */
+    /* } */
 
     /* photo gallery lightbox */
         .lightbox-wrapper {
