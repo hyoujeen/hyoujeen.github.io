@@ -148,9 +148,25 @@
 									</a>
 
 									<!-- Photos -->
-									<a href="images/fulls/05.jpg">
+										<script>
+										var pageURL_5 = 'photos.html';
+										var pageTitle_5 = 'Photos';
+										var popupWinWidth = 800;
+										var popupWinHeight = 650;
+
+										function createPopupWin(pageURL_5, pageTitle_5, popupWinWidth, popupWinHeight) {
+											var left = (screen.width - popupWinWidth)/2;
+											var top = (screen.height - popupWinHeight)/4;
+
+											var myWindow = window.open(pageURL_5, pageTitle_5, 'resizable=yes, width=' + popupWinWidth + ', height=' + popupWinHeight + ', top=' + top + ',left=' + left);
+										}
+									</script>
+
+						
+									<a onclick = "createPopupWin('photos.html', 'Photos', 800, 650);" />
 										<img src="images/thumbs/IMG_4397.jpeg" alt="" />
 										<h3>Photos</h3>
+					
 									</a>
 								</div>
 							</section>
