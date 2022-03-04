@@ -2675,6 +2675,9 @@
     .gallery-item.item-8x5 {
       flex-basis: calc(175px * 1.6);
     }
+    .gallery-item.item-5x8 {
+      flex-basis: calc(175px * .625);
+    }
     .gallery-item.item-2x1 {
       flex-basis: calc(175px * 2);
     }
