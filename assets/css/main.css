@@ -2678,8 +2678,8 @@
     .gallery-item.item-5x8 {
       flex-basis: calc(175px * .625);
     }
-    .gallery-item.item-5x12 {
-      flex-basis: calc(175px * .41666);
+    .gallery-item.item-5x22 {
+      flex-basis: calc(175px * .227);
     }
     .gallery-item.item-2x1 {
       flex-basis: calc(175px * 2);
