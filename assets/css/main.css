@@ -2618,10 +2618,7 @@
 /* Footer */
 
 	#footer {
-		position: fixed;
-		margin-top: 2%;
-		height: 50 width: 100%;
-		bottom: 0;
+		
 		text-align: center;
 		padding: 4em 0 4em 0;
                
@@ -2639,10 +2636,7 @@
 		@media screen and (max-width: 1280px) {
 
 			#footer {
-                                position: fixed;
-				margin-top: 2%;
-				height: 50 width: 100%;
-				bottom: 0;
+                       
 				text-align: center;
 				padding: 2em 0 2em 0;
                                
