@@ -27,7 +27,6 @@
 
 	body {
 		line-height: 1;
-		min-height:100%;
 
 	}
 
@@ -2625,12 +2624,6 @@
 		text-align: center;
 		padding: 4em 0 4em 0;
 		
-		position: absolute;
-		margin-top: 2%;
-		width: 100%;
-    		bottom: 0;
-    		left: 0;
-
 
 	}
 
@@ -2648,12 +2641,7 @@
                        
 				text-align: center;
 				padding: 2em 0 2em 0;
-	
-				position: absolute;
-				margin-top: 2%;
-				width: 100%;
-				bottom: 0;
-				left: 0;
+
 		
 			}
 
