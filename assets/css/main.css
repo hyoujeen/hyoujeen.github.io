@@ -2619,9 +2619,7 @@
 	#footer {
 		text-align: center;
 		padding: 4em 0 4em 0;
-		display: flex;
-                flex-direction: column;
-                min-height: 100vh;
+
 	}
 
 		#footer:before {
@@ -2636,9 +2634,7 @@
 
 			#footer {
 				padding: 2em 0 2em 0;
-				 display: flex;
-                                flex-direction: column;
-                                min-height: 100vh;
+		
 			}
 
 		}
