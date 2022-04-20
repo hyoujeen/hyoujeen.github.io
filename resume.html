@@ -65,7 +65,7 @@
 				function handlePages(page)
 				{
 				    //This gives us the page's dimensions at full scale
-				    var viewport = page.getViewport( {scale: 1.2} );
+				    var viewport = page.getViewport( {scale: 1.3} );
 
 				    //We'll create a canvas for each page to draw it on
 				    var canvas = document.createElement( "canvas" );
@@ -105,16 +105,8 @@
 		
 				   
 			<!-- Footer -->
-			<style>
-			.footer {
-			  position: fixed;
-			  left: 0;
-			  bottom: 0;
-			  width: 100%;
-			  text-align: center;
-			}
-			</style>
-			<footer id="footer">
+		
+			<footer id="footer" style="position: fixed; left:0; bottom:0; width:100%; text-align:center;">
 				<p>&copy; You Jeen Ha. 2022.</p>
 			</footer>
 
