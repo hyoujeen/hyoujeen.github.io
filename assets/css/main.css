@@ -2621,6 +2621,8 @@
 		
 		text-align: center;
 		padding: 4em 0 4em 0;
+		
+		clear: both;
                
 
 	}
@@ -2639,6 +2641,8 @@
                        
 				text-align: center;
 				padding: 2em 0 2em 0;
+				
+				clear: both;
                                
 		
 			}
