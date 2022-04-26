@@ -28,7 +28,6 @@
 	body {
 		line-height: 1;
 		
-		perspective: 500px;
 
 	}
 
@@ -2653,33 +2652,6 @@
 
 
 /*Art Gallery*/
-figure {
-	position: sticky;
-	top: 0;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	width: 100vw;
-	height: 100vh;
-
-	$photos: 10;
-
-	@for $i from 1 through $photos {
-		&:nth-child(#{$i}) {
-			img {
-				$rotation: (($i - 1)/ ($photos - 1)) - 0.5;
-				transform: scale(0.6) rotate($rotation * 25deg);
-			}
-		}
-	}
-
-	img {
-		width: 100vmin;
-		height: 100vmin;
-		border-radius: 3px;
-	}
-}
-
 
 /*Photo Gallery*/
     .gallery {
