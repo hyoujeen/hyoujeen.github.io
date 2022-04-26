@@ -2657,17 +2657,19 @@
 	padding: 2px;
 	transition: .3s;
 	
-	&:hover &__image {
-		filter: grayscale(1);
+	&:hover {
+		.artgallery__image {
+			filter: grayscale(1);
+		}
 	}
 	
-	&__column {
+	.artgallery__column {
 		display: flex;
 		flex-direction: column;
 		width: 25%;
 	}
 	
-	&__link {
+	.artgallery__link {
 		margin: 2px;
 		overflow: hidden;
 		
@@ -2682,11 +2684,11 @@
 		}
 	}
 	
-	&__thumb {
+	.artgallery__thumb {
 		position: relative;
 	}
 	
-	&__image {
+	.artgallery__image {
 		display: block;
 		width: 100%;
 		transition: .3s;
@@ -2696,7 +2698,7 @@
 		}
 	}
 	
-	&__caption {
+	.artgallery__caption {
 		position: absolute;
 		bottom: 0;
 		left: 0;
