@@ -2650,6 +2650,9 @@
 		}
 
 /*Art Gallery*/
+
+$time: 0.3s;
+
 .artgallery {
   display: grid;
   grid-template-rows: repeat(5, 18vh);
