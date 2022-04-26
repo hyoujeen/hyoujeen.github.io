@@ -2672,11 +2672,11 @@
 		overflow: hidden;
 		
 		&:hover {
-			.gallery__image {
+			.artgallery__image {
 				filter: grayscale(0);
 			}
 			
-			.gallery__caption {
+			.artgallery__caption {
 				opacity: 1;
 			}
 		}
