@@ -27,6 +27,8 @@
 
 	body {
 		line-height: 1;
+		
+		perspective: 500px;
 
 	}
 
