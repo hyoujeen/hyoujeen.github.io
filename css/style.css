@@ -37,7 +37,7 @@
 			Fallback for browsers that don't support pseudo elements.
 		*/
 
-		background: url('images/bg.jpg');
+		background: url('images/background.jpg');
 	}
 
 		body:before
