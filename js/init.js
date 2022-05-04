@@ -120,7 +120,7 @@
 					windowMargin: (skel.isActive('small') ? 0 : 50)
 				});
 		
-			$('.two').poptrox();
+			$('.media_links_viewer_launcher').poptrox();
 
 	});
 
