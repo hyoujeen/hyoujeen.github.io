@@ -119,6 +119,8 @@
 					usePopupNav: true,
 					windowMargin: (skel.isActive('small') ? 0 : 50)
 				});
+		
+			$('.two').poptrox();
 
 	});
 
