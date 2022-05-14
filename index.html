@@ -17,11 +17,13 @@
 		<script src="js/jquery.poptrox.min.js"></script>
 		<script src="js/skel.min.js"></script>
 		<script src="js/init.js"></script>
+		<script src="js/lity.min.js"></script>
 		<noscript>
 			<link rel="stylesheet" href="css/skel.css" />
 			<link rel="stylesheet" href="css/style.css" />
 			<link rel="stylesheet" href="css/style-xlarge.css" />
 			<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+			<link rel="stylesheet" href="css/lity.min.css" />
 		</noscript>
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 	</head>
@@ -94,36 +96,32 @@
 						<h2>Best of Korean Performance</h2>
 						<div class="row">
 							<article class="6u 12u$(xsmall) work-item">
-								<a href="https://www.youtube.com/embed/_fGAXrexmJk?&autoplay=1&mute=1" id="link" class="image fit thumb"><img src="images/thumbs/IMG_6564.jpg" alt="" /></a>
+								<a href="https://www.youtube.com/embed/_fGAXrexmJk?&autoplay=1&mute=1" data-lity class="image fit thumb"><img src="images/thumbs/IMG_6564.jpg" alt="" /></a>
 								     <h3>N (엔) - Fate (인연)</h3>
 								<p> A sentimental expression of longing with a mix of contemporary and Korean traditional elements in dance and aesthetic.</p>
-								 <div id="popup"><iframe id="popupiframe"></iframe></div>
-                                        			<div id="popupdarkbg"></div>
+				
 							</article>
 							<article class="6u 12u$(xsmall) work-item">
-								<a href="https://www.youtube.com/embed/Q8s5SZSS1tI?&autoplay=1&mute=1" id="link2" class="image fit thumb"><img src="images/thumbs/IMG_6395.PNG" alt="" /></a>
+								<a href="https://www.youtube.com/embed/Q8s5SZSS1tI?&autoplay=1&mute=1" data-lity class="image fit thumb"><img src="images/thumbs/IMG_6395.PNG" alt="" /></a>
 								      <h3>Sarah Chang (장영주) - Zigeunerweisen op. 20</h3>	
 								<p> Sarah Chang's world-renowned technique, especially her rich vibrato, and powerful expressiveness do not disappoint in one of her most watched performances. </p>
-								<div id="popup"><iframe id="popupiframe"></iframe></div>
-                                        			<div id="popupdarkbg"></div>
+							
 							</article>
 				
 							
 						</div>
 						<div class="row">
 							<article class="6u 12u$(xsmall) work-item">
-								<a href="https://www.youtube.com/embed/2RsTqYPCcKY?&autoplay=1&mute=1" id="link3" class="image fit thumb"><img src="images/thumbs/IMG_6457.PNG" alt="" /></a>
+								<a href="https://www.youtube.com/embed/2RsTqYPCcKY?&autoplay=1&mute=1" data-lity class="image fit thumb"><img src="images/thumbs/IMG_6457.PNG" alt="" /></a>
 								    <h3>Kim Kyung Ho (김경호) - 비정 (Heartless)</h3>
 								<p> Korea's best rock singer performing one of his most popular ballads. </p>
-								 <div id="popup"><iframe id="popupiframe"></iframe></div>
-                                        			<div id="popupdarkbg"></div>
+							
 							</article>
 							<article class="6u$ 12u$(xsmall) work-item">
-								<a href="https://www.youtube.com/embed/T-ajHVsMcKk?&autoplay=1&mute=1" id="link4" class="image fit thumb"><img src="images/thumbs/IMG_6571.jpg" alt="" /></a>
+								<a href="https://www.youtube.com/embed/T-ajHVsMcKk?&autoplay=1&mute=1" data-lity class="image fit thumb"><img src="images/thumbs/IMG_6571.jpg" alt="" /></a>
 								    <h3>Hyunjin (현진) - Motley Crew Remix</h3>
 								<p> A fierce combination of intense K-pop choreography and modern and hip-hop/urban dance, specifically krumping. </p>
-								 <div id="popup"><iframe id="popupiframe"></iframe></div>
-                                        			<div id="popupdarkbg"></div>
+							
 							</article>
 	
 	
@@ -505,43 +503,10 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 				</ul>
 			</footer>
 				
-		 <script type="text/javascript" src="js/jquery.min.js"></script>
-			<script>
-
-			var stopVideo = function () {
-			    var video = document.getElementById("link");
-			    if ( video !== null ) {
-				video.pause();
-			    }
-			 };
-				
-			document.getElementById("link").onclick = function(e) {
-			    e.preventDefault();
-			    document.getElementById("popupdarkbg").style.display = "block";
-			    document.getElementById("popup").style.display = "block";
-			    document.getElementById('popupiframe').src = document.getElementById("link").href;
-			    document.getElementById('popupdarkbg').onclick = function() {
-				document.getElementById("popup").style.display = "none";
-				document.getElementById("popupdarkbg").style.display = "none";
-				stopVideo();
-			    };
-			    return false;
-			  }
-
-			  window.onkeydown = function(e) {
-			      if (e.keyCode == 27) {
-				document.getElementById("popup").style.display = "none";
-				document.getElementById("popupdarkbg").style.display = "none";
-				e.preventDefault();
-				return;
-			      }
-			  }
-				
-			
-
+		
 
 				
-			  </script>
+	
 
 	</body>
 </html>
