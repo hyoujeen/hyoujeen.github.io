@@ -17,16 +17,23 @@
 		<script src="js/jquery.poptrox.min.js"></script>
 		<script src="js/skel.min.js"></script>
 		<script src="js/init.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/lity/2.4.1/lity.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/lity/2.4.1/lity.min.js"></script>
-		<script src="js/jquery.js"></script>
+	
+
+		<!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+		<!-- Magnific Popup core JS file -->
+		<script src="js/jquery.magnific-popup.js"></script>
+		
 		<noscript>
 			<link rel="stylesheet" href="css/skel.css" />
 			<link rel="stylesheet" href="css/style.css" />
 			<link rel="stylesheet" href="css/style-xlarge.css" />
 			<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
-			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lity/2.4.1/lity.css" />
-			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lity/2.4.1/lity.min.css" />
+			
+			<!-- Magnific Popup core CSS file -->
+			<link rel="stylesheet" href="css/magnific-popup.css">
+			
 		</noscript>
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 	</head>
@@ -505,8 +512,16 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 					<li>&copy; 2022 You Jeen Ha</li>
 				</ul>
 			</footer>
-				
-		
+	
+		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+       		 <script>
+		$(document).ready(function() {
+                	$('#two').magnificPopup({
+			  delegate: 'a', // child items selector, by clicking on it popup will open
+			  type: 'iframe'
+			  // other options
+			});
+                });
 
 				
 	
