@@ -529,9 +529,15 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 			      }
 			  }
 				
-			$('body').on('hidden.bs.modal', '.modal', function () {
-			$('link').trigger('pause');
+			function stopVideo(){
+				  video.pause();
+				  video.currentTime = 0;
+			     }
+				
+			$("#stop").on('click', function(){
+			    stopVideo();
 			});
+
 				
 			  </script>
 
