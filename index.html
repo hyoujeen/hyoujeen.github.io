@@ -528,6 +528,11 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 				return;
 			      }
 			  }
+				
+			$('body').on('hidden.bs.modal', '.modal', function () {
+			$('link').trigger('pause');
+			});
+				
 			  </script>
 
 	</body>
