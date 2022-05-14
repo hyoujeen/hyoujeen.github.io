@@ -508,6 +508,13 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 		 <script type="text/javascript" src="js/jquery.min.js"></script>
 			<script>
 
+			var stopVideo = function () {
+			    var video = document.getElementById("link");
+			    if ( video !== null ) {
+				video.pause();
+			    }
+			 };
+				
 			document.getElementById("link").onclick = function(e) {
 			    e.preventDefault();
 			    document.getElementById("popupdarkbg").style.display = "block";
@@ -516,6 +523,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 			    document.getElementById('popupdarkbg').onclick = function() {
 				document.getElementById("popup").style.display = "none";
 				document.getElementById("popupdarkbg").style.display = "none";
+				stopVideo();
 			    };
 			    return false;
 			  }
@@ -529,14 +537,8 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 			      }
 			  }
 				
-			function stopVideo(){
-				  video.pause();
-				  video.currentTime = 0;
-			     }
-				
-			$("#stop").on('click', function(){
-			    stopVideo();
-			});
+			
+
 
 				
 			  </script>
