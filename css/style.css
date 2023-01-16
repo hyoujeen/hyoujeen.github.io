@@ -51,6 +51,7 @@
 			text-decoration: none;
 		}
 
+
 	strong, b {
 		color: #787878;
 		font-weight: 400;
@@ -576,6 +577,8 @@
 	}
 
 		ul li {
+			margin: 0;
+			padding: 0.2em;
 			padding-left: 0.5em;
 		}
 
