@@ -580,6 +580,8 @@
 		ul li {
 			padding-left: 0.5em;
 			
+			list-style-position:inside;
+			
 		}
 
 		ul.alt {
