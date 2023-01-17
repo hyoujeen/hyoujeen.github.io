@@ -580,6 +580,11 @@
 		ul li {
 
 			padding-left: 0.5em;
+			
+			    list-style-type: disc;
+			    list-style-position: inside;
+			    padding: 10px 0 10px 20px;
+			    text-indent: -1em;
 		}
 
 		ul.alt {
