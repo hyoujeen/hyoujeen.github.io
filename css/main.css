@@ -2380,8 +2380,6 @@ blockquote {
     box-shadow: none;
   }
 
-  ul li {
-    display: inline-block;
 
   ul.main-menu {
     margin: 30px 0;
