@@ -319,7 +319,7 @@ input[type="submit"]:focus {
     padding: 15px 0;
     width: 70px;
     right: -90px;
-    background-color: #444;
+    background-color: #4c4c4cec;
     border-radius: 35px;
     z-index: 999;
     list-style: none;
