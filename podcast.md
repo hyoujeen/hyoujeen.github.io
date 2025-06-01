@@ -4,7 +4,7 @@ title: Podcast
 
 ---
 
-Back in 2022, I started a podcast titled "Saram in the World", "saram (사람)" meaning "human" in Korean. The meaning of "saram" changes slightly when spoken or written in different contexts, so I believe the term encapsulates the breadth of our complexities--from our most noble strengths to our deepest flaws. And I wanted to delve into these aspects of the human condition with others. 
+Back in 2022, I started a podcast titled "Saram in the World", "saram (사람)" meaning "human" in Korean. The meaning of "saram" changes slightly when spoken or written in different contexts, connoting a broad range of human complexities--from our most noble strengths to our deepest flaws. And I wanted to delve into these aspects of the human condition and how they interact with the latest technological advances with others.
 
 Each episode is devoted to capturing reflections from members of the  "MZ Generation" regarding their life journeys as digital natives and the possible paths we might collectively take toward a more human-centered future. While in hiatus at the moment, the podcast will be revived in the coming months.
 
