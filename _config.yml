@@ -11,7 +11,7 @@ greetings: Hello! My name is You Jeen (유진). My interests lie within and betw
 favicon: 'assets/images/IMG_1526_favicon.png'
 domain: hyoujeen.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://hyoujjen.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-#baseurl: /REPOSITORY-NAME/      # place folder name if the site is served in a subfolder
+baseurl: /hyoujeen.github.io/      # place folder name if the site is served in a subfolder 
 production_url: https://hyoujeen.github.io
 #disqus: 'justgoodthemes'
 #mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
