@@ -1,0 +1,67 @@
+# Site setings
+repository: hyoujeen/hyoujeen.github.io
+name: 'You Jeen (유진) Ha'
+description: 'Law Student'
+#meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
+logo:
+# Author image is used in site sidebar and greetings in the home page hero text
+author: You Jeen Ha
+image: './profile.png'
+greetings: Hello! My name is You Jeen (유진). My interests lie within and between the fields of computer science, philosophy, and human-centered technology governance.
+favicon: 'assets/images/IMG_1526_favicon.png'
+domain: hyoujeen.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://hyoujjen.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+#baseurl: /REPOSITORY-NAME/      # place folder name if the site is served in a subfolder
+production_url: https://hyoujeen.github.io
+#disqus: 'justgoodthemes'
+#mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+# Add your GA Tracking Id
+ga_analytics: 
+
+# Contact form setings
+#email: you-jeen.ha@fulbrightmail.org
+#contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
+#thankyou_page_description: "Thank you for your message! I will do my best to respond asap."
+
+# Social links
+linkedin: 'username'
+github: 'hyoujeen'
+email: you-jeen.ha@fulbrightmail.org
+
+
+# Navigation
+navigation:
+  - text: Home
+    url: /
+  - text: About
+    url: /about
+  - text: Research
+    url: /research
+  - text: Podcast
+    url: /podcast
+  - text: Art & Photography
+    url: /artphoto
+  - text: Search
+    url: /search
+
+# Required Plugins
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+
+# Permalinks
+permalink: /:title
+
+# Other
+markdown: kramdown
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
+
