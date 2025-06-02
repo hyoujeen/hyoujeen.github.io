@@ -3,7 +3,7 @@ layout: post
 title:  "A fascination with binaries"
 tags: [ Philosophy  ]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2018/10.jpg
+featured_image: 
 ---
 
 Why do we give binaries so much power? What is it about them?
