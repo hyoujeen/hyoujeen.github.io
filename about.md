@@ -11,7 +11,7 @@ After graduating from Smith College with a double major in **Computer Science & 
 
 Over the years, my papers have been accepted by international venues such as the ETHICOMP Conference and the ACM FAccT Conference.
 
-When I'm not thinking about innovation's societal impacts, I dabble in photorealistic painting, take photos of nearby scenery, meditate, and run with my dog.
+In my free time, I dabble in photorealistic painting, take photos of nearby scenery, meditate, run with my dog, and experiment with the latest GenAI models.
 
 
 
