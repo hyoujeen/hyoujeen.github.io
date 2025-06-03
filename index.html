@@ -2,12 +2,25 @@
 layout: default
 title: Home
 ---
+<!--
+Includes Typed.js library created by Matt Boldt, 
+Copyright (c) 2023,
+Library is licensed by MIT
+-->
+
 <main id="main" class="site-main">
 
 {% if page.url == "/" %}
 <div class="hero inner">
-    <p class="hero-text">{{ site.greetings }}</p>
-</div>        
+    <div id="typed-strings">
+        <p>Hello! My name is You Jeen (유진).</p>
+        <p>My interests lie within and between the fields of computer science, philosophy, and human-centered technology governance.</p>
+    </div>
+    <span class="hero-text" id="typed"></span>
+</div>
+
+
+       
 {% endif %}
 
 {% if page.url == "/" %}
@@ -38,6 +51,19 @@ title: Home
 {% if site.mailchimp_url %}
     {% include newsletter-box.html %}
 {% endif %}
+
+<!-- Load library from the CDN -->
+<script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+<script>
+    var typed = new Typed('#typed', {
+        stringsElement: '#typed-strings',
+        typeSpeed: 20,
+        backDelay: 4000,
+        loop: true,
+        cursorChar: '_'
+    });
+</script>
+
 </main>
 
 
