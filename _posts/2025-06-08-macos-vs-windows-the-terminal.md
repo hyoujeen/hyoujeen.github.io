@@ -6,7 +6,7 @@ featured_image_thumbnail:
 featured_image: 
 ---
 
-Growing up, I often logged into my family's bulky desktop monitor-keyboard setup to occasionally play <i>Oregon Trail</i>, <i>Where in the World is Carmen Sandiego?</i>, and the like. Some today would call this computer model "vintage." Yet, it was on this "vintage" computer that I was introduced to programs that can help create tables and strings of sentences such as Microsoft Excel and Microsoft Word, a couple of the most essential applications for workflows even in 2025. This was in the early 2000s; the "reign of the PC."
+Growing up, I often logged into my family's bulky desktop monitor-keyboard setup to play <i>Oregon Trail</i>, <i>Where in the World is Carmen Sandiego?</i>, and the like. Some today would call this computer model "vintage." Yet, it was on this "vintage" computer that I was introduced to programs that can help create tables and strings of sentences such as Microsoft Excel and Microsoft Word, a couple of the most essential applications for workflows even in 2025. This was in the early 2000s; the "reign of the PC."
 
 In the late 2000s and into the 2010s, things began to change. Schools started to replace PCs with white Macintosh desktops, and my school was one of them. Throughout my teens, the device I owned reflected the growing market shift from PCs to Apple products. I carried my MacBook all the way into college as Apple became part of the 21st century zeitgeist. macOS offered a clean, intuitive interface, required much less updates and restarts, and posed minimal concerns when it came to viruses and malware. 
 
