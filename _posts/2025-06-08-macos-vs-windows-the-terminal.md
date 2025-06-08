@@ -16,5 +16,5 @@ macOS has numerous advantages. But, given that today's Windows PC laptops, such 
 
 Maybe one day, we'll have a device that takes Windows PCs' best features (e.g., AMOLED displays, Microsoft Office applications, breadth of customization) and combines them with a robust UNIX-based operating system and, by extension, a UNIX-based Terminal. While Windows does have its Subsystem for Linux (WSL), the feature has its limitations, one being that commands are executed much more slowly, especially when installing certain packages. 
 
-As Apple's WWDC25 approaches this upcoming week, my unrealistic(!) hope is that of the macOS-like improvements promised for iPadOS, something akin to macOS's Terminal is released. Such an upgrade would definitely take the iPad to new heights. Otherwise, it'd be nice to see Microsoft further improving upon WSL and its capabilities. Or I'll finally get around to installing Linux instead.
+As Apple's WWDC25 approaches this upcoming week, my unrealistic(!) hope is that of the macOS-like improvements promised for iPadOS, something akin to macOS's Terminal is released. Such an upgrade could take the iPad to new heights while allowing for greater flexibility when using a PC-tablet combo. Otherwise, it'd be nice to see Microsoft further improving upon WSL and its capabilities. Or I'll finally get around to installing Linux instead.
 
