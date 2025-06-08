@@ -1,4 +1,4 @@
---
+---
 layout: post
 title:  "macOS vs Windows: The Terminal"
 tags: [ Programming, WWDC25  ]
