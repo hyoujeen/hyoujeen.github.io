@@ -6,7 +6,7 @@ featured_image_thumbnail:
 featured_image: assets/images/posts/2025/apple-news-2025.png
 ---
 
-With Apple's WWDC25 approaching this upcoming week, my unrealistic(!) hope is that among the several macOS-like improvements promised for iPadOS, something akin to macOS's Terminal could be one of them.
+With Apple's WWDC25 approaching this upcoming week, my unrealistic(!) hope is that something akin to macOS's Terminal could be among the several macOS-like improvements promised for iPadOS.
 
 Growing up, I often logged into my family's bulky desktop monitor-keyboard setup to play <i>Oregon Trail</i>, <i>Where in the World is Carmen Sandiego?</i>, and the like. Some today would call this computer model "vintage." Yet, it was on this "vintage" computer that I was introduced to programs that can help create tables of data and clusters of sentences such as Microsoft Excel and Microsoft Word, a couple of the most essential applications for workflows even in 2025. This was in the early 2000s; the "reign of the PC."
 
@@ -16,8 +16,10 @@ Most importantly, as I learned while studying computer science, macOS is built o
 
 This is where I'm conflicted.
 
-macOS clearly has numerous advantages. But, today's Windows PC laptops are catching up in competition with their AMOLED displays, 2-in-1 form factors, etc. <i>in addition to</i> the more readily available and customizable software AND hardware. Broadly speaking, I would say it's a close call <i>at minimum</i> between Windows PCs and macOS computers. As someone who currently uses a Samsung laptop, however, I still find myself missing the benefits that macOS has to offer. And iPadOS has its limitations.
+macOS clearly has numerous advantages. But, today's Windows PC laptops are catching up in competition with their AMOLED displays, 2-in-1 form factors, etc. <i>in addition to</i> the more readily available and customizable software AND hardware. Broadly speaking, I would say it's a close call <i>at minimum</i> between Windows PCs and macOS computers. As someone who currently uses a Samsung laptop, however, I still find myself missing the benefits that macOS has to offer. And iPadOS, while similar in ways to macOS, has its limitations.
 
-That said, I'd be excited to see Apple innovate further by bringing more macOS-like features to iPadOS. The latest iPad Pro model already has a stunning OLED display. If the iPad could function as a hybrid mix of tablet and computer, Apple might be able to match Windows PCs' 2-in-1 form factor. Although, the question would still remain for Apple in such a case: how much of an overlap between macOS and iPadOS would be justifiable from a development standpoint and in light of consumers' typical use cases?
+I'd be excited to see Apple innovate further by bringing more macOS-like features to iPadOS. The latest iPad Pro model already has a stunning OLED display. If the iPad could function as a hybrid mix of tablet and computer, Apple might be able to match Windows PCs' 2-in-1 form factor. Although, the question would still remain for Apple in such a case: how much of an overlap between macOS and iPadOS would be justifiable from a development standpoint and in light of consumers' typical use cases?
 
 Until that day comes, Windows CMD + Windows Subsystem for Linux (WSL) will keep me relatively content.
+
+<i>Screenshot from [https://9to5mac.com/2025/04/13/ipados-19-be-more-like-macos-overhaul/](https://9to5mac.com/2025/04/13/ipados-19-be-more-like-macos-overhaul/){:target="_blank"}</i>
