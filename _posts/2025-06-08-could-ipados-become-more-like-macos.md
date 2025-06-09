@@ -16,7 +16,7 @@ Most importantly, as I learned while studying computer science, macOS is built o
 
 This is where I'm conflicted.
 
-macOS clearly has numerous advantages. But, today's Windows PC laptops are catching up in competition with their AMOLED displays, 2-in-1 form factors, etc. <i>in addition to</i> the more readily available and customizable software AND hardware. Broadly speaking, I would say it's a close call <i>at minimum</i> between Windows PCs and macOS computers. As someone who currently uses a Samsung laptop, however, I still find myself missing the benefits that macOS has to offer. And iPadOS, while similar in ways to macOS, has its limitations.
+macOS clearly has numerous advantages. But, today's Windows PC laptops are catching up in competition with their AMOLED displays, 2-in-1 form factors, etc. <i>in addition to</i> their more readily available and customizable software (e.g., Microsoft Office applications) AND hardware. Broadly speaking, I would say it's a close call <i>at minimum</i> between Windows PCs and macOS computers. As someone who currently uses a Samsung laptop, however, I still find myself missing the benefits that macOS has to offer. And iPadOS, while similar in ways to macOS, has its limitations.
 
 I'd be excited to see Apple innovate further by bringing more macOS-like features to iPadOS. The latest iPad Pro model already has a stunning OLED display. If the iPad could function as a hybrid mix of tablet and computer, Apple might be able to match Windows PCs' 2-in-1 form factor. Although, the question would still remain for Apple in such a case: how much of an overlap between macOS and iPadOS would be justifiable from a development standpoint and in light of consumers' typical use cases?
 
