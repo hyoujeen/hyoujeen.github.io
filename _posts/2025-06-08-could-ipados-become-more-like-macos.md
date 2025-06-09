@@ -14,7 +14,7 @@ In the late 2000s and into the 2010s, things began to change. Schools started to
 
 Most importantly, as I learned while studying computer science, macOS is built on a UNIX foundation. Nothing makes me happier than efficiently running commands on a Mac Terminal when I need to run a Python script.
 
-This is where I'm conflicted.
+This is where I'm conflicted. <i>Which OS do I use?</i>
 
 macOS clearly has numerous advantages. But, today's Windows PC laptops are catching up in competition with their AMOLED displays, 2-in-1 form factors, etc. <i>in addition to</i> their more readily available and customizable software (e.g., Microsoft Office applications) AND hardware. Broadly speaking, I would say it's a close call <i>at minimum</i> between Windows PCs and macOS computers. As someone who currently uses a Samsung laptop, however, I still find myself missing the benefits that macOS has to offer. And iPadOS, while similar in ways to macOS, has its limitations.
 
