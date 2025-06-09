@@ -16,14 +16,14 @@ Hendrick explains how reading is indeed an ethical practice:
 and that as a result:
 > The boundaries of [his] moral imagination were being stretched, gently but insistently, by voices far wiser and more complex than [his] own and [he] became a better person for it.
 
-Several years ago, one of my college professors had described philosophy as "a continuous conversation." And that's what reading essay collections from Western and Eastern antiquity into the 1900s definitely felt like! There was a certain magic to poring over the meditations of past thinkers, tracing their reasoning through the many pages, and attempting to grasp the wisdom that they sought to impart. I wasn't just in the seminar room reading a printed PDF document; I was making a determined foray, albeit amateur, into their minds. New spaces for conversation emerged for my classmates and myself, transcending space and time.
+Several years ago, one of my college professors had described philosophy as "a continuous conversation." And that's what reading essay collections from Western and Eastern antiquity into the 1900s definitely felt like! There was a certain magic to poring over the meditations of past thinkers, tracing their reasoning through the many pages, and attempting to grasp the wisdom that they sought to impart. I wasn't just in the seminar room reading a printed PDF document; I was making a determined foray, albeit amateur, into their minds. New spaces for conversation emerged for my classmates and myself as voices from the past transcended space and time.
 
 If I remember correctly, my high school music teacher said something similar as well--particularly about the sheet music clustered on the stands in front of us. It was up to us, the readers of inscriptions passed down through generations, to carry forth and hopefully learn from the voices, emotions, and ideas communicated on paper by those who came before. There are simply no words adequate enough to express the swelling of energy our ensemble felt as we brought to life Dvořák's <i>New World Symphony</i> and transported ourselves to the 1800s for all of 45 minutes. (If you haven't listened to the fourth movement, [please do](https://www.youtube.com/watch?v=jOofzffyDSA){:target="_blank"}.) During that time, we became a part of something greater.
 
 > To read deeply is to insist that some things, wisdom, empathy, the expansion of human understanding, cannot be optimised, only experienced.
 
-I agree. Reading with intention invites us to engage with "[s]olitude, slowness, and sustained attention." These in turn prime us to connect across cultures and eras. A critical exercise in ethics.
-I want to believe that my own previous experiences with texts across philosophy, literature, and music helped me grow and become a better person as well.
+I agree. Reading with intention invites us to engage with "[s]olitude, slowness, and sustained attention", which stem from simply <i>being</i>. These in turn prime us to connect across cultures and eras. A critical exercise in ethics.
+I want to believe that my own previous experiences with texts across philosophy, literature, and music helped me appreciate the present and become a better person as well.
 
 With both the past and the future in mind, I sincerely hope that over the next few years, we are able to take a step back and, in the process, examine ways in which we can reconcile the new advances that AI applications offer with opportunities for stillness that allow us to be in touch with our and others' inner selves. 
 
