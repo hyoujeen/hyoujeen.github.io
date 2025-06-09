@@ -23,6 +23,7 @@ If I remember correctly, my high school music teacher said something similar as 
 > To read deeply is to insist that some things, wisdom, empathy, the expansion of human understanding, cannot be optimised, only experienced.
 
 I agree. Reading with intention invites us to engage with "[s]olitude, slowness, and sustained attention." These in turn prime us to connect across cultures and eras. A critical exercise in ethics.
+I want to believe that my own previous experiences with texts across philosophy, literature, and music helped me grow and become a better person as well.
 
 With both the past and the future in mind, I sincerely hope that over the next few years, we are able to take a step back and, in the process, examine ways in which we can reconcile the new advances that AI applications offer with opportunities for stillness that allow us to be in touch with our and others' inner selves. 
 
