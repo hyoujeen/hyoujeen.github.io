@@ -1,8 +1,10 @@
-# Royce Jekyll Theme v1.2.1
+# README.md
 
 This personal website's theme was adapted from the original Royce Jekyll Theme v1.2.1.
 
 [(Theme Live Demo)](https://royce.netlify.app/)
+
+Details below were outlined within the original Royce Jekyll Theme v1.2.1 package.
 
 ## Features
 
