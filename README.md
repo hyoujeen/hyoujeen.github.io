@@ -2,7 +2,7 @@
 
 This personal website's theme was adapted from the original Royce Jekyll Theme v1.2.1.
 
-[Theme Live Demo](https://royce.netlify.app/)
+[(Theme Live Demo)](https://royce.netlify.app/)
 
 ## Features
 
