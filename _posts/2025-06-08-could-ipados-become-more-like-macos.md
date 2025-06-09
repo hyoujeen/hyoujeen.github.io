@@ -12,7 +12,7 @@ When I was a young girl, I often logged into my family's bulky desktop monitor-k
 
 In the late 2000s and into the 2010s, things began to change. Schools started to replace PCs with white Macintosh desktops, and my school was one of them. Throughout my teens, the device I owned reflected the growing market shift from PCs to Apple products. I carried my MacBook all the way into college as Apple became part of the 21st century zeitgeist. macOS offered a clean, intuitive interface, required much less updates and restarts, and posed minimal concerns when it came to viruses and malware.
 
-Most importantly, as I learned while studying computer science, macOS is built on a UNIX foundation. Nothing makes me happier than efficiently running commands on a Mac Terminal when I need to run a Python script.
+Most importantly, as I learned while studying computer science, macOS is built on a UNIX foundation. Nothing makes me happier than efficiently running commands on a Mac Terminal when I need to install packages with [homebrew](https://brew.sh){:target="_blank"} or run a Python script.
 
 This is where I'm conflicted. <i>Which OS do I use?</i>
 
