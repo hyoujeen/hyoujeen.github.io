@@ -20,6 +20,8 @@ macOS clearly has numerous advantages. But, today's Windows PC laptops are catch
 
 I'd be excited to see Apple innovate further by bringing more macOS-like features to iPadOS. The latest iPad Pro model already has a stunning OLED display. If the iPad could function as a hybrid mix of tablet and computer, Apple might be able to match Windows PCs' 2-in-1 form factor. Although, the question would still remain for Apple in such a case: how much of an overlap between macOS and iPadOS would be justifiable from a development standpoint and in light of consumers' typical use cases?
 
-Until that day comes, Windows CMD + Windows Subsystem for Linux (WSL) will keep me relatively content.
+Until that day comes, Windows 11 + Windows Subsystem for Linux (WSL) will keep me relatively content.
+
+UPDATE on June 9, 2025: They did it! Terminal is still missing, but this year's changes to iPadOS are significant! 
 
 <i>Screenshot from [https://9to5mac.com/2025/04/13/ipados-19-be-more-like-macos-overhaul/](https://9to5mac.com/2025/04/13/ipados-19-be-more-like-macos-overhaul/){:target="_blank"}</i>
