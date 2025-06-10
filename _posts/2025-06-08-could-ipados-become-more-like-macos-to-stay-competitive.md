@@ -14,7 +14,7 @@ In the late 2000s and into the 2010s, things began to change. I noticed schools 
 
 Further, macOS is built on a UNIX foundation. Nothing makes me happier than efficiently running commands on a Mac Terminal when I need to install packages with ```homebrew``` or run a Python script.
 
-This is where I'm conflicted. I grew up on Windows but found convenience in macOS. Which OS would better serve my creative and technical needs?
+This is where I'm, at times, conflicted. I grew up on Windows but found convenience in macOS. Which OS would better serve my creative and technical needs?
 
 macOS clearly has numerous advantages. But, today's Windows PC laptops are catching up in innovation with their AMOLED displays, 2-in-1 form factors, and more <i>in addition to</i> their readily available and customizable software (e.g., Microsoft Office applications + built-in macro system VBA, Windows CMD + WSL). Broadly speaking, I would say it's a close competition <i>at minimum</i>. 
 
