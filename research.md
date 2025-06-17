@@ -24,5 +24,5 @@ title: Research
 * Accepted to present “For or Against Progress?: Institutional Agency in a Time of Technological Exceptionalism” at ETHICOMP 2020 (Logroño, Spain).
 * “The Effects of Individual Differences on Visualization Use” at the 2018 Laboratory for Analytic Sciences Research Symposium (Raleigh, NC).
 * “The Misguided Conflation of Epistemic Ontology & Epistemic Onticism in AGI Research” at ETHICOMP 2018 (Sopot, Poland).
-* “David Hume and Dӧgen Zenji: Personhood, Identity, and Self” at the Five College Philosophy Conference (Mount Holyoke College, MA).
+* “David Hume and Dӧgen Zenji: Personhood, Identity, and Self” at the 2018 Five College Philosophy Conference (Mount Holyoke College, MA).
 * “David Hume and Dӧgen Zenji: Personhood, Identity, and Self” at the 2018 UEHIRO Graduate Philosophy Conference (Honolulu, HI).
