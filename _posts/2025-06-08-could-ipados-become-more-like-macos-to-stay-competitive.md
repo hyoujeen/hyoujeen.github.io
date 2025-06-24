@@ -6,7 +6,7 @@ featured_image_thumbnail:
 featured_image: assets/images/posts/2025/apple-news-2025.png
 ---
 
-With Apple's WWDC25 approaching this upcoming week, my unrealistic(!) hope is that something akin to macOS's Terminal could be among the several macOS-like improvements promised for iPadOS.
+With Apple's WWDC25 approaching this week, my unrealistic(!) hope is that something akin to macOS's Terminal could be among the several macOS-like improvements promised for iPadOS.
 
 Back when I was a child, the bulky desktop monitor-keyboard setup was the norm. Some today would call this setup "vintage." Yet, it was on this "vintage" computer that I was introduced to programs that can help create tables of data and clusters of sentences such as Microsoft Excel and Microsoft Word, two of the public's go-to applications for productivity even in 2025. This was in the early 2000s. The "reign of the PC." 
 
