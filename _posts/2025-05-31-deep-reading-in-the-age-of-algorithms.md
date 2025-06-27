@@ -13,7 +13,7 @@ At this point, I came across Carl Hendrick's <i>Substack</i> post: [<i>The Humil
 Hendrick explains how reading is indeed an ethical practice--and a deliberate one at that:
 > It is the discipline of giving sustained, generous attention to the interior life of another. <strong>To read carefully is to say: your words matter; your complexity matters; your thought, even if difficult or dissonant, matters.</strong> It is to suspend our impulse to reply, to judge, to scroll away. <strong>And in that suspension, something else arises: empathy, reflection, even transformation.</strong>
 
-and that as a result:
+He notes that as a result of immersing himself in such an exercise:
 > The boundaries of [his] moral imagination were being stretched, gently but insistently, by voices far wiser and more complex than [his] own and [he] became a better person for it.
 
 Several years ago, one of my college professors had described philosophy as "a continuous conversation." And that's what reading essay collections from Western and Eastern antiquity into the 1900s definitely felt like! There was a certain magic to poring over the meditations of influential thinkers, carefully tracing their reasoning through the many pages, and attempting to grasp the wisdom that they sought to impart. I wasn't just in the seminar room reading a printed PDF document; I was making a determined foray, albeit amateur, into their minds. New spaces for conversation emerged for my classmates and myself as their voices -- certainly "far wiser and more complex" -- reached across space and time.
