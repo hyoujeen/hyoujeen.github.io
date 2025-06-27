@@ -10,7 +10,7 @@ As modern society treads through the fast-paced, persistent waves of automation 
 
 At this point, I came across Carl Hendrick's <i>Substack</i> post: [<i>The Humility of the Page: The Lost Ethics of Deep Reading</i>](https://carlhendrick.substack.com/p/the-humility-of-the-page-the-lost?utm_source=share&utm_medium=android&r=1qe5uc&triedRedirect=true){:target="_blank"}. I hadn't thought of reading as an ethical practice per se before, and his juxtaposition of deep reading and algorithmic optimization prompted me to revisit my own relationship with written texts. 
 
-Hendrick explains how reading is indeed an ethical practice:
+Hendrick explains how reading is indeed an ethical practice and a deliberate one at that:
 > It is the discipline of giving sustained, generous attention to the interior life of another. <strong>To read carefully is to say: your words matter; your complexity matters; your thought, even if difficult or dissonant, matters.</strong> It is to suspend our impulse to reply, to judge, to scroll away. <strong>And in that suspension, something else arises: empathy, reflection, even transformation.</strong>
 
 and that as a result:
