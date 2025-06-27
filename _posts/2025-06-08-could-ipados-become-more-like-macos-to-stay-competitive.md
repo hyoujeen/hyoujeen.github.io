@@ -8,7 +8,7 @@ featured_image: assets/images/posts/2025/apple-news-2025.png
 
 With Apple's WWDC25 approaching this week, my unrealistic(!) hope is that something akin to macOS's Terminal could be among the several macOS-like improvements promised for iPadOS.
 
-When I was a child, the bulky desktop monitor-keyboard setup was the norm. Some today would call this setup "vintage." Yet, it was on this "vintage" computer that I was introduced to programs that can help create tables of data and clusters of sentences such as Microsoft Excel and Microsoft Word, two of the public's go-to applications for productivity even in 2025. This was in the early 2000s. The "reign of the PC." 
+When I was a child, the bulky desktop monitor-keyboard setup was the norm. Some today would call this setup "vintage." Yet, it was on this "vintage" computer that I was introduced to programs that can help create tables of data and clusters of sentences such as Microsoft Excel and Microsoft Word, two of the public's go-to applications for productivity even in 2025. This was in the early 2000s. "The reign of the PC." 
 
 In the late 2000s and into the 2010s, things began to change. I noticed schools across New York replacing PCs with white Macintosh desktops as they followed the growing market shift from PCs to Apple products. Apple quickly became part of the 21st century zeitgeist. And macOS offered a clean, intuitive interface, required much less updates and restarts, and posed minimal concerns when it came to viruses and malware.
 
