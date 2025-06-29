@@ -6,7 +6,7 @@ featured_image_thumbnail:
 featured_image: 
 ---
 
-As modern society treads through the fast-paced, persistent waves of automation and quantification, the romantic in me, while intrigued and more often than not amazed by what the latest algorithms can achieve, wishes for a breather. A collective pause. And the exploration of a question (or three): what are these AI systems ultimately for? Are they truly creating a world that we wish to live in? Further, is the direction we are headed in helpful for posterity? 
+As modern society treads through the fast-paced, persistent waves of automation and quantification, the romantic in me, while intrigued and more often than not amazed by what the latest algorithms can achieve, wishes for a breather. A collective pause. And the exploration of a question (or three): what are these AI systems ultimately for? Are they truly creating a world that we wish to live in? Finally, is the direction we are headed in helpful for posterity? 
 
 At this point, I came across Carl Hendrick's <i>Substack</i> post: [<i>The Humility of the Page: The Lost Ethics of Deep Reading</i>](https://carlhendrick.substack.com/p/the-humility-of-the-page-the-lost?utm_source=share&utm_medium=android&r=1qe5uc&triedRedirect=true){:target="_blank"}. I hadn't thought of reading as an ethical practice per se before, and his juxtaposition of deep reading and algorithmic optimization prompted me to revisit my own relationship with written texts. 
 
