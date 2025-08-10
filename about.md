@@ -7,7 +7,7 @@ title: About
 
 Starting this coming fall, I will be a law student at HLS! 
 
-I previously studied **Computer Science & Philosophy** at Smith College and abroad at the University of Oxford. 
+I previously studied **Computer Science & Philosophy** at Smith College and abroad at the University of Oxford. In 2021, I was a Fulbright Research Fellow at the Korea Advanced Institute of Science & Technology (KAIST).
 
 I most enjoy examining issues concerning **AI Ethics & Policy** from multiple angles (e.g., character education, metaethics, legal theory and governance, business operations). Over the years, my academic research in a number of these areas has been accepted by international venues such as the ETHICOMP Conference and the ACM FAccT Conference.
 
