@@ -11,7 +11,7 @@ I previously studied **Computer Science & Philosophy** at Smith College and abro
 
 Researching **AI Ethics & Policy** initiatives from multiple angles (e.g., digital literacy and ethics, law, business) excites me the most. Over the years, my academic research has been accepted by international venues such as the ETHICOMP Conference and the ACM FAccT Conference.
 
-In my free time, I dabble in photorealistic painting, take photos of nearby scenery, meditate, run with my dog, and experiment with the latest GenAI models.
+In my free time, you can find me dabbling in photorealistic painting, taking photos of nearby scenery, meditating, running with my dog, and experimenting with the latest GenAI models.
 
 
 
