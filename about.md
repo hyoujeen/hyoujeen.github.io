@@ -5,7 +5,7 @@ title: About
 
 > [T]he disciplines are the place where we begin, but not where we end.  <cite>― Allen F. Repko ―</cite>
 
-Starting this coming fall, I will be a law student at Harvard Law School! 
+Starting this coming fall, I will be a J.D. Candidate at Harvard Law School.
 
 I previously studied **Computer Science & Philosophy** at Smith College and abroad at the University of Oxford. In 2021, I was a Fulbright Research Fellow at the Korea Advanced Institute of Science & Technology (KAIST) examining South Korea's multistakeholder approach to enforcing **AI ethics principles** via policy and legislation.
 
